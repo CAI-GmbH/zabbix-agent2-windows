@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Zabbix>
+	<Windows>
+		<Agent2-Default>
+			<OsDistribution>Windows</OsDistribution>
+			<OsVersion>Any</OsVersion>
+			<Hardware>amd64</Hardware>
+			<ZabbixVersion>7.0 LTS</ZabbixVersion>
+			<Encryption>OpenSSL</Encryption>
+			<Package>MSI</Package>
+			<ZabbixRelease>7.0.17</ZabbixRelease>
+			<DownloadPath>https://github.com/CAI-GmbH/zabbix-agent2-windows/updates/zabbix_agent2-Latest-windows-amd64-openssl.msi</DownloadPath>
+		</Agent2-Default>
+	</Windows>
+</Zabbix>
