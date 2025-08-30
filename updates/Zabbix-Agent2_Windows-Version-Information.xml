@@ -9,7 +9,7 @@
 			<Encryption>OpenSSL</Encryption>
 			<Package>MSI</Package>
 			<ZabbixRelease>7.0.17</ZabbixRelease>
-			<DownloadPath>https://github.com/CAI-GmbH/zabbix-agent2-windows/updates/zabbix_agent2-Latest-windows-amd64-openssl.msi</DownloadPath>
+			<DownloadPath>https://raw.githubusercontent.com/CAI-GmbH/zabbix-agent2-windows/main/updates/zabbix_agent2-Latest-windows-amd64-openssl.msi</DownloadPath>
 		</Agent2Default>
 	</Windows>
 </Zabbix>
